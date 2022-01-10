@@ -1,0 +1,21 @@
+html,body {
+    margin: 0;
+    box-sizing: border-box;
+}
+.head{
+    align-items: center;
+    justify-content: center;
+}
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #d8cb1b;
+    height: 100vh;
+    color: rgb(0, 0, 0);
+    border: 1px solid;
+    border-radius: 100px;
+}
+h1{
+  text-align: center;  
+}
